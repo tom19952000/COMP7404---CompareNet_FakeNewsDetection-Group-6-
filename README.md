@@ -7,9 +7,22 @@ Yu Yingchen (yvette18@connect.hku.hk)
 Zhai Xuanyi (xuanyii@connect.hku.hk)
 
 
-
+# Credit to orignial author
 Credit to code for the ACL 2021 paper "[Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge](https://aclanthology.org/2021.acl-long.62/)"
 
+
+# Citation
+@inproceedings{linmei2021compare,
+    title = "Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge",
+    author = "Hu, Linmei  and  Yang, Tianchi  and  Zhang, Luhao  and  Zhong, Wanjun  and  Tang, Duyu  and  Shi, Chuan  and  Duan, Nan  and  Zhou, Ming",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+    month = aug,
+    year = "2021",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-long.62",
+    doi = "10.18653/v1/2021.acl-long.62",
+    pages = "754--763",
+}
 
 Make sure the following files are present as per the directory structure before running the code,
 ```
@@ -41,7 +54,7 @@ UPDATE: The datasets from the above links seem to be changed. I have found the d
 
 # Dependencies
 
-Our code runs on the GeForce RTX 2080 Ti (11GB), with the following packages installed:
+Our code runs on the GeForce RTX 3070 (16GB), with the following packages installed:
 ```
 python 3.7
 pytorch 1.7.1
@@ -70,20 +83,5 @@ Test,
 python main.py --mode 1 --model_file MODELNAME
 ```
 
-# Citation
-If you make advantage of our model in your research, please cite the following in your manuscript:
-```
-@inproceedings{linmei2021compare,
-    title = "Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge",
-    author = "Hu, Linmei  and  Yang, Tianchi  and  Zhang, Luhao  and  Zhong, Wanjun  and  Tang, Duyu  and  Shi, Chuan  and  Duan, Nan  and  Zhou, Ming",
-    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
-    month = aug,
-    year = "2021",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2021.acl-long.62",
-    doi = "10.18653/v1/2021.acl-long.62",
-    pages = "754--763",
-}
 
-```
 
