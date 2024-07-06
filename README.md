@@ -1,4 +1,6 @@
-Code for the ACL 2021 paper "[Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge](https://aclanthology.org/2021.acl-long.62/)"
+This repository is purely for HKU COMP7404 - Group 6 project (Summer)
+
+Credit to code for the ACL 2021 paper "[Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge](https://aclanthology.org/2021.acl-long.62/)"
 
 
 Make sure the following files are present as per the directory structure before running the code,
