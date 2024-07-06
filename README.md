@@ -34,8 +34,10 @@ UPDATE: The datasets from the above links seem to be changed. I have found the d
 Our code runs on the GeForce RTX 2080 Ti (11GB), with the following packages installed:
 ```
 python 3.7
-torch 1.3.1
+pytorch 1.7.1
+CUDA 10.0
 nltk 3.2.5
+wheel 0.38.4
 tqdm
 numpy
 pandas
