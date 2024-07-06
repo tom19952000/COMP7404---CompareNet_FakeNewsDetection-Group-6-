@@ -1,4 +1,12 @@
-This repository is purely for HKU COMP7404 - Group 6 project (Summer)
+# This repository is purely for HKU COMP7404 - Group 6 project (Summer)
+Group Member list
+Cheng Wai Kit (tom1995@connect.hku.hk) (group coordinator) *
+Chiu Chun Yi (cychiuak@connect.hku.hk)
+Yang Yanning (yyning9@connect.hku.hk)
+Yu Yingchen (yvette18@connect.hku.hk)
+Zhai Xuanyi (xuanyii@connect.hku.hk)
+
+
 
 Credit to code for the ACL 2021 paper "[Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge](https://aclanthology.org/2021.acl-long.62/)"
 
